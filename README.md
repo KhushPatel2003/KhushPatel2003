@@ -1,4 +1,4 @@
-### <h1> Hey there, my name is Khush Patel 🙋🏾‍♂️ ![](https://komarev.com/ghpvc/?username=KhushPatel2003&color=darkblue&label=Number+Of+Stalkers)</h1> 
+### <h1> Hey there, my name is Khush Patel 🙋🏾‍♂️ ![](https://komarev.com/ghpvc/?username=KhushPatel2003&color=blue&label=Number+Of+Stalkers)</h1> 
 <b>Aside from school and work, here are some things I really enjoy!</b>
 
 - Trying new foods 🌮
