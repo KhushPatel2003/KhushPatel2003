@@ -13,6 +13,7 @@
 
 <b>My Languages </b> <br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
 <!--
 **KhushPatel2003/KhushPatel2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
