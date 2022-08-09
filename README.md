@@ -1,4 +1,4 @@
-### Hey there, my name is Khush Patel 🙋🏾‍♂️
+### <h1> Hey there, my name is Khush Patel 🙋🏾‍♂️ </h1>
 
 <!--
 **KhushPatel2003/KhushPatel2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
