@@ -10,6 +10,13 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhushPatel2003)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhushPatel2003&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KhushPatel2003&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KhushPatel2003&repo=convoychat" />
+</a>
 <!--
 **KhushPatel2003/KhushPatel2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
