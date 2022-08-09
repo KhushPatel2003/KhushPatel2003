@@ -33,7 +33,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="50"/>
 
-<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 <!--
 **KhushPatel2003/KhushPatel2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
