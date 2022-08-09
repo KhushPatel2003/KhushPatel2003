@@ -1,5 +1,11 @@
 ### <h1> Hey there, my name is Khush Patel 🙋🏾‍♂️ </h1>
-
+Aside from school and work, here are some things I really enjoy!
+- Trying new foods 🌮
+- Cooking 🧑🏾‍🍳
+- Running 🏃🏾‍♂️
+- Video games 🎮
+- Movies 🍿
+- THe outdoors ☀️
 <!--
 **KhushPatel2003/KhushPatel2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
