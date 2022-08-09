@@ -1,5 +1,5 @@
 ### <h1> Hey there, my name is Khush Patel 🙋🏾‍♂️ </h1>
-<h2>Aside from school and work, here are some things I really enjoy!</h2>
+<b>Aside from school and work, here are some things I really enjoy!</b>
 
 - Trying new foods 🌮
 - Cooking 🧑🏾‍🍳
