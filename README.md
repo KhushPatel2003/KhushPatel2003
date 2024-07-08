@@ -1,37 +1,33 @@
-### <h1> Hey there, my name is Khush Patel 🙋🏾‍♂️ ![](https://komarev.com/ghpvc/?username=KhushPatel2003&color=blue)</h1> 
-<b>Aside from school and work, here are some things I really enjoy!</b>
+### <h1> Hey, here's a TLDR about my life </h1> 
+<b>**School**</b>
+- Computer Engineering @ University of Waterloo, (2021 - 2026)
 
-- Trying new foods 🌮
-- Cooking 🧑🏾‍🍳
-- Running 🏃🏾‍♂️
-- Video games 🎮
-- Movies 🍿
-- The outdoors ☀️
+<b>**Work**</b>
+- Software Engineerign Intern @ theScore
+  - <ins>Role</ins>: Backend
+  - <ins>Tech</ins>: Elixir, gRPC, Kafka & Kubernetes
+  - <ins>Date</ins>: May 2024 - Aug 2024
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhushPatel2003&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhushPatel2003&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- Software Engineerign Intern @ Genesys
+  - <ins>Role</ins>: Backend
+  - <ins>Tech</ins>: Kotlin, AWS & Kafka
+  - <ins>Date</ins>: Sep 2024 - Dec 2024
 
-<b>Tools I've used in the past!</b> <br />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="50"/>
+- Software Engineerign Intern @ Openlane
+  - <ins>Role</ins>: Backend
+  - <ins>Tech</ins>: Typescript, Node, AWS & Docker
+  - <ins>Date</ins>: Jan 2023 - Apr 2023
+
+- Software Engineerign Intern @ Foodi
+  - <ins>Role</ins>: Full-Stack
+  - <ins>Tech</ins>: React-Native, GraphQL, Redux & AWS
+  - <ins>Date</ins>: May 2022 - Aug 2022
+
+<b>**Fun Stuff**</b>
+- I like running
+- Trying to read more
+- Movies >> Everything else
+- Cooking is fun, eating is better
 
 <!--
 **KhushPatel2003/KhushPatel2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
